@@ -4,7 +4,7 @@ description: Guidance for setting up and configuring an Azure Enterprise Agreeme
 author: petertay
 ---
 
-# How to look like Neil
+# How to look like Neil and talk like Alvaro
 
 Any Microsoft customer with a Microsoft Enterprise Agreement can add Azure to their Microsoft Enterprise Agreement (EA) by making an upfront monetary commitment to Azure. Funds deposited on account are used over the course of the year as Azure services are consumed.
 
