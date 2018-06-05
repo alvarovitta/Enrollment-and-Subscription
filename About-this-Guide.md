@@ -24,7 +24,7 @@ organization’s operating model and considers billing, resource access and orga
 <br />
 
 ## Next steps 
-Review and understand the Enterprise Agreement, Azure hierarchy and roles required for Azure administration and governance, see:  
+Review and understand the Enterprise Agreement, Azure hierarchy and roles required for Azure administration and governance, see: 
 [Defining the Enterprise Agreement](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/1.0-Defining-the-Enterprise-Agreement.md) 
 <br />
 <br />  
