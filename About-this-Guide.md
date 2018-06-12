@@ -20,10 +20,9 @@ organization’s operating model and considers billing, resource access and orga
 5. [Defining Resource Policies and Locks](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/5.0-Defining-Resource-Policies-and-Locks.md): Specify governance controls that regulate how organizations manage their Azure resources 
 
 6. [Using Role-Based Access Control (RBAC)](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/6.1-Viewing-or-Modifying-RBAC-Role-Assignments.md): Specify Azure permissions 
-<br />
-<br />
 
-## Additional information 
+
+**Additional information**  
 For more information on licensing, see: [Licensing Azure for the enterprise](https://azure.microsoft.com/en-us/pricing/enterprise-agreement/). 
 <br />
 <br />
