@@ -23,11 +23,11 @@ organization’s operating model and considers billing, resource access and orga
 <br />
 <br />
 
+## Additional information 
+For more information on licensing, see: [Licensing Azure for the enterprise](https://azure.microsoft.com/en-us/pricing/enterprise-agreement/). 
+<br />
+<br />
+
 ## Next steps 
 Review and understand the Enterprise Agreement, Azure hierarchy and roles required for Azure administration and governance, see: 
 [Defining the Enterprise Agreement](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/1.0-Defining-the-Enterprise-Agreement.md).
-<br />
-<br />  
-
-## Additional information 
-For more information on licensing, see: [Licensing Azure for the enterprise](https://azure.microsoft.com/en-us/pricing/enterprise-agreement/). 
