@@ -6,7 +6,12 @@ Use this guide to set up and configure an Azure Enterprise Account for your orga
 Any Microsoft customer with a Microsoft Enterprise Agreement can add Azure to their Microsoft Enterprise Agreement (EA) by making an 
 upfront monetary commitment to Azure. Funds deposited on account are used over the course of the year as Azure services are consumed.  
 
-**Additional information**:  For more information on licensing, see: [Licensing Azure for the enterprise](https://azure.microsoft.com/en-us/pricing/enterprise-agreement/). 
+**Additional information**:  
+- For more information on licensing, see: [Licensing Azure for the enterprise](https://azure.microsoft.com/en-us/pricing/enterprise-agreement/). 
+
+- For more information on on-boarding and enrollment, see: [Onboarding Guide to the Microsoft Azure Enterprise Portal Direct Enrollment](https://eaportalonboardingvideos.blob.core.windows.net/onboardingvideos/AzureDirectEACustomerOnboardingGuide_En.pdf). 
+- For more information on Azure management concepts and to deploy, monitor, and manage solution resources as a group, see: [Azure 
+Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/).
 <br />
 <br />
 
