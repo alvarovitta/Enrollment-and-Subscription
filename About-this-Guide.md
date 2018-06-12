@@ -6,6 +6,10 @@ Use this guide to set up and configure an Azure Enterprise Account for your orga
 Any Microsoft customer with a Microsoft Enterprise Agreement can add Azure to their Microsoft Enterprise Agreement (EA) by making an 
 upfront monetary commitment to Azure. Funds deposited on account are used over the course of the year as Azure services are consumed.  
 
+**Additional information**:  For more information on licensing, see: [Licensing Azure for the enterprise](https://azure.microsoft.com/en-us/pricing/enterprise-agreement/). 
+<br />
+<br />
+
 Use the following enrollment sequence when designing an Azure EA service hierarchy. This enrollment approach best represents an 
 organization’s operating model and considers billing, resource access and organizational structure: 
 
@@ -20,10 +24,6 @@ organization’s operating model and considers billing, resource access and orga
 5. [Defining Resource Policies and Locks](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/5.0-Defining-Resource-Policies-and-Locks.md): Specify governance controls that regulate how organizations manage their Azure resources 
 
 6. [Using Role-Based Access Control (RBAC)](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/6.1-Viewing-or-Modifying-RBAC-Role-Assignments.md): Specify Azure permissions 
-
-
-**Additional information**  
-For more information on licensing, see: [Licensing Azure for the enterprise](https://azure.microsoft.com/en-us/pricing/enterprise-agreement/). 
 <br />
 <br />
 
