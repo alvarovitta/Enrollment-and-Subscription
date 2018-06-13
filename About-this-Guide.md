@@ -15,6 +15,7 @@ Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-res
 <br />
 <br />
 
+## Guidance
 Use the following enrollment sequence when designing an Azure EA service hierarchy. This enrollment approach best represents an 
 organization’s operating model and considers billing, resource access and organizational structure: 
 
