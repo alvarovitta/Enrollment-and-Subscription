@@ -19,20 +19,20 @@ Resource Manager Documentation](https://docs.microsoft.com/en-us/azure/azure-res
 Use the following enrollment sequence when designing an Azure EA service hierarchy. This enrollment approach best represents an 
 organization’s operating model and considers billing, resource access and organizational structure: 
 
-1. [Defining the Enterprise Agreement](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/1.0-Defining-the-Enterprise-Agreement.md): Define Azure Enterprise Administration (EA) roles 
+1. [Defining the Enterprise Agreement](1.0-Defining-the-Enterprise-Agreement.md): Define Azure Enterprise Administration (EA) roles 
 
-2. [Defining Subscriptions and Patterns](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/2.0-Defining-Subscriptions-and-Patterns.md):  Define the subscription model, create subscriptions and, assign service administrators 
+2. [Defining Subscriptions and Patterns](2.0-Defining-Subscriptions-and-Patterns.md):  Define the subscription model, create subscriptions and, assign service administrators 
 
-3. [Defining Resource Groups](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/3.0-Defining-Resource-Groups.md): Organize and group resources logically by similarity, function, geography or by workload 
+3. [Defining Resource Groups](3.0-Defining-Resource-Groups.md): Organize and group resources logically by similarity, function, geography or by workload 
 
-4. [Applying Naming Standards and Tags](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/4.0-Applying-Naming-Standards-and-Tags.md): Categorize Azure resources for the purpose of security auditing, chargeback, and show-back 
+4. [Applying Naming Standards and Tags](4.0-Applying-Naming-Standards-and-Tags.md): Categorize Azure resources for the purpose of security auditing, chargeback, and show-back 
 
-5. [Defining Resource Policies and Locks](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/5.0-Defining-Resource-Policies-and-Locks.md): Specify governance controls that regulate how organizations manage their Azure resources 
+5. [Defining Resource Policies and Locks](5.0-Defining-Resource-Policies-and-Locks.md): Specify governance controls that regulate how organizations manage their Azure resources 
 
-6. [Using Role-Based Access Control (RBAC)](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/6.1-Viewing-or-Modifying-RBAC-Role-Assignments.md): Specify Azure permissions 
+6. [Using Role-Based Access Control (RBAC)](6.1-Viewing-or-Modifying-RBAC-Role-Assignments.md): Specify Azure permissions 
 <br />
 <br />
 
 ## Next steps 
 Review and understand the Enterprise Agreement, Azure hierarchy and roles required for Azure administration and governance, see: 
-[Defining the Enterprise Agreement](https://github.com/alvarovitta/Enrollment-and-Subscription/blob/master/1.0-Defining-the-Enterprise-Agreement.md).
+[Defining the Enterprise Agreement](1.0-Defining-the-Enterprise-Agreement.md).
