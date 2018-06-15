@@ -1,0 +1,68 @@
+- name: Enrollment and Subscription
+  href: /alvarovitta/Enrollment-and-Subscription/blob/master/About-this-Guide.md
+  items:
+  - name: Defining the Enterprise Agreement
+    href: /alvarovitta/Enrollment-and-Subscription/blob/master/1.0-Defining-the-Enterprise-Agreement.md
+  - name: Assigning the Enterprise Administrator Role
+    href: /alvarovitta/Enrollment-and-Subscription/blob/master/1.1-Assigning-the-Enterprise-Administrator-Role.md
+  - name: Assigning the Department Administrator Role
+    href: /alvarovitta/Enrollment-and-Subscription/blob/master/1.2-Assigning-the-Department-Administrator-Role.md
+  - name: Assigning the Account Owner Role
+    href: /alvarovitta/Enrollment-and-Subscription/blob/master/1.3-Assigning-the-Account-Owner-Role.md
+  - name: Assigning the Service Administrator Role
+    href: /alvarovitta/Enrollment-and-Subscription/blob/master/1.4-Assigning-the-Service-Administrator-Role.md
+  - name: Governing Privileged Accounts
+    href: /alvarovitta/Enrollment-and-Subscription/blob/master/1.5-Governing-Privileged-Accounts.md
+
+- name: Defining Subscriptions and Patterns
+  href: /alvarovitta/Enrollment-and-Subscription/blob/master/2.0-Defining-Subscriptions-and-Patterns.md
+  items:
+  - name: Designing the Subscription
+    href: /alvarovitta/Enrollment-and-Subscription/blob/master/2.1-Designing-the-Subscription.md
+    items:
+        - name: Using the Sandbox Pattern
+          href: /alvarovitta/Enrollment-and-Subscription/blob/master/2.1.1-Using-the-Sandbox-Pattern.md
+        - name: Using the Sandbox and Production Pattern
+          href: /alvarovitta/Enrollment-and-Subscription/blob/master/2.1.2-Using-the-Sandbox-and-Production-Pattern.md
+        - name: Using the Sandbox and Production and Purpose Built Pattern
+          href: /alvarovitta/Enrollment-and-Subscription/blob/master/2.1.3-Using-the-Sandbox-and-Production-and-Purpose-Built-Pattern.md
+        - name: Using the Continuous Development Lifecycle Pattern
+          href: /alvarovitta/Enrollment-and-Subscription/blob/master/2.1.4-Using-the-Continuous-Development-Lifecycle-Pattern.md
+
+- name: Defining Resource Groups
+  href: /alvarovitta/Enrollment-and-Subscription/blob/master/3.0-Defining-Resource-Groups.md
+  items:
+  - name: Designing a Resource Group
+    href: /alvarovitta/Enrollment-and-Subscription/blob/master/3.1-Designing-a-Resource-Group.md
+    items:
+        - name: Using the Agile I.T. Workloads Pattern
+          href: /alvarovitta/Enrollment-and-Subscription/blob/master/3.1.1-Using-the-Agile-IT-Workloads-Pattern.md
+        - name: Using the Traditional I.T. Workloads Pattern
+          href: /alvarovitta/Enrollment-and-Subscription/blob/master/3.1.2-Using-the-Traditional-IT-Workloads-Pattern.md
+        - name: Using the Access Management Grouping Pattern
+          href: /alvarovitta/Enrollment-and-Subscription/blob/master/3.1.3-Using-the-Access-Management-Grouping-Pattern.md
+
+- name: Applying Naming Standards and Tags
+  href: /alvarovitta/Enrollment-and-Subscription/blob/master/4.0-Applying-Naming-Standards-and-Tags.md
+  items:
+        - name: Applying Azure Tags
+          href: /alvarovitta/Enrollment-and-Subscription/blob/master/4.1-Applying-Azure-Tags.md
+
+- name: Defining Resource Policies and Locks
+  href: /alvarovitta/Enrollment-and-Subscription/blob/master/5.0-Defining-Resource-Policies-and-Locks.md
+  items:
+        - name: Designing a Resource Policy
+          href: /alvarovitta/Enrollment-and-Subscription/blob/master/5.1-Designing-a-Resource-Policy.md
+          items:
+            - name: Top 10 Azure Baseline Security Policies
+              href: /alvarovitta/Enrollment-and-Subscription/blob/master/5.1.1-Top-10-Azure-Baseline-Security-Policies.md
+        - name: Applying Resource Lock Policies
+          href: /alvarovitta/Enrollment-and-Subscription/blob/master/5.2-Applying-Resource-Lock-Policies.md
+
+- name: Using Role Based Access Control (RBAC)
+  href: /alvarovitta/Enrollment-and-Subscription/blob/master/6.0-Using-Role-based-Access-Control.md
+  items:
+        - name: Viewing or Modifying RBAC Role Assignments
+          href: /alvarovitta/Enrollment-and-Subscription/blob/master/6.1-Viewing-or-Modifying-RBAC-Role-Assignments.md
+        - name: Top 10 Realtime Alerts for Azure Subscriptions
+          href: /alvarovitta/Enrollment-and-Subscription/blob/master/6.2-Top-10-Realtime-Alerts-for-Azure-Subscriptions.md
